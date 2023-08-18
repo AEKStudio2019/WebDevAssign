@@ -12,8 +12,8 @@
             WELCOME
             <span>
                 &emsp;&emsp;I am Ahmed Ehab Saleh Al-kataby. I am 21-year-old computer science student, and I am in my third year in this major. 
-                In this website, I am going to publish my web development assignments for phd. Marwa Alhadi and eng. Aleah Alshmairi, 
-                who are teaching me in Sana'a University.
+                In this website, I am going to publish my web development assignments for PhD. Marwa Alhadi and eng. Aleah Alshmairi, 
+                who are teaching me at Sana'a University.
             </span>
         </h1>
     </div>
