@@ -24,7 +24,7 @@
                                     {
                                         for($column = 0; $column < 8; $column++)
                                         {
-                                            $degree = round(rand(0, 360) / 90) * 90;
+                                            $degree = rand(0, 4) * 90;
                                             echo ((($row + $column) % 2 == 0)? "<img style=\"transform: rotate(".$degree."deg);\" src=\"resources/images/Light_Wood_Cell.jpg\" alt=\"cell\" />" : "<img style=\"transform: rotate(".$degree."deg);\" src=\"resources/images/Dark_Wood_Cell.jpg\" alt=\"cell\" />");
                                         }
                                     }
