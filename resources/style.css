@@ -164,6 +164,11 @@ header .menu a:hover, header .menu a:active{
     float: left;
 }
 
+.math_form {
+    margin: 2%;
+    background-color: #D9D9D9;
+}
+
 footer {
     font-family: sans-serif;
     padding: 20px 20px;
