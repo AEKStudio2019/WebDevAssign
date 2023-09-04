@@ -116,6 +116,10 @@ header .menu a:hover, header .menu a:active{
     margin-top: 3%;
 }
 
+.body_contents form .math_form{
+    color: red;
+}
+
 .greeting_section{
     background-color: rgba(0, 0, 0, 0.3);
     text-align: center;
