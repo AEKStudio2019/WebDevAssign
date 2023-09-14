@@ -26,6 +26,9 @@
                 <a href="index.php">HOME</a>
                 <a href="chess.php">CHESS</a>
                 <a href="array_functions.php">ARRAY FUNCTIONS</a>
+                <a href="number_functions.php">NUMBER FUNCTIONS</a>
+                <a href="string_functions.php">STRING FUNCTIONS</a>
+                <a href="more_functions.php">MORE FUNCTIONS</a>
                 <a href="algebra.php">ALGEBRA</a>
             </div>
         </header>

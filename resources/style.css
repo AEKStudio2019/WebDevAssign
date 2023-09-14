@@ -35,8 +35,7 @@ header span {
 }
 
 header .menu{
-    float: right;
-	overflow: hidden;
+    display: inline-block;
 }
 
 header .menu a{
@@ -182,6 +181,7 @@ header .menu a:hover, header .menu a:active{
     width: 95%;
     height: 35px;
     font-size: 1em;
+    font-family: tahoma;
     padding-left: 15px;
 }
 
